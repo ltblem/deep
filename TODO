@@ -1,2 +1,4 @@
+In no particular order, despite being an ordered list:
 1. Get the floppy limb physics working properly
 2. Create test area for starting area, this will be improved on later (we want to do the swamp area first)
+3. Pixel art doesn't scale properly, fix that
