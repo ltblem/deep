@@ -30,5 +30,6 @@ public class DiverMovementScript : MonoBehaviour
         {
             GetComponent<Rigidbody2D>().velocity += new Vector2(-diverSpeed, 0);
         }
+        
     }
 }
